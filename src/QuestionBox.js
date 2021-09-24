@@ -11,6 +11,7 @@ function QuestionBox(){
             <Answer text="lmao"/>
             </section>
         </section>
+        <button class="qb-submit">Submit</button>
     </div>
 }
 
